@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arslan
-- 👀 I’m interested in python and MEVN
+- 👀 I’m interested in Angular, Vue, React, Next js
 - 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on python, javascript, MEVN, HTML, CSS, Bootstrap, MySQL
 - 📫 How to reach me out via my email(arn3870@gmail.com)
