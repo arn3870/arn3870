@@ -2,11 +2,11 @@
   <img src='./arslan.gif' alt="name animation" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/arn3870">
   <img  src="https://github.com/arn3870/arn3870/raw/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
 <div>
   <samp>
@@ -16,9 +16,8 @@
       <a href="https://www.linkedin.com/in/arnbaig" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://account.microsoft.com/profile" target="blank"><img align="center"
-         src="https://img.shields.io/badge/hotmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+      <a href="https://mail.google.com" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30"/></a>
     </p>
   <p align="center">
 <!--       <a href="https://www.instagram.com/moeed.io/" target="blank"><img align="center"
